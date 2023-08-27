@@ -1,2 +1,1 @@
-*.R linguist-detectable=true
-*.R linguist-language=R
+notebooks/** linguist-vendored = true
